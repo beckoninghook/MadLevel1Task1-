@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MadLevel1Task1</string>
+    <string name="question">guess if the next throw is going to be lower, equal or higher</string>
+    <string name="last_throw">Last throw:</string>
+    <string name="lower">lower</string>
+    <string name="equals">equals</string>
+    <string name="higher">higher</string>
+</resources>
